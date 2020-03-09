@@ -1,0 +1,13 @@
+p.dotted {border-style: dotted; border-width: 10px;border-color:red; padding: 20px 15px;}
+p.dashed {border-style: dashed;border-width: 10px;border-color:green;padding: 20px 10px 10px 0px;}
+p.solid {border-style: solid;border-width: 10px;border-color:yellow;padding: 20px;}
+p.double {border-style: double;border-width: 10px;border-color:blue;padding: 20px;}
+p.groove {border-style: groove;border-width: 10px;border-color:purple;padding: 20px;}
+p.ridge {border-style: ridge;border-width: 10px;border-color:black;padding: 20px;}
+p.inset {border-style: inset;border-width: 10px;padding: 20px;}
+p.outset {border-style: outset;border-width: 10px;padding: 20px;}
+p.hidden {border-style: hidden;border-width: 10px;padding: 20px;}
+p.mix { border-style:dotted dashed solid ridge;border-width: 10px;border-color: red green blue black;padding: 20px;}
+img.image{ opacity: 0.5;border-style: solid; border-width:5px; padding: 20px;}
+div.div{ width:750px;border-style: solid; border-width: 25px; border-color:black; padding:30px 30px; margin: auto;}
+
